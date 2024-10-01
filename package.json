@@ -1,0 +1,16 @@
+{
+	"name": "jrb-polymers",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"deploy": "gh-pages -d dist"
+	},
+	"keywords": [],
+	"author": "",
+	"homepage": "https://gulfwww.github.io/JRB-POLYMERS",
+	"license": "ISC",
+	"dependencies": {
+		"gh-pages": "^6.1.1"
+	}
+}
